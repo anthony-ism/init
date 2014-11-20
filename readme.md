@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Initial Template for App development with JavaScript in node.js
 ==============================================================
 
@@ -61,3 +62,11 @@ For the next step make sure you added your .ssh pub key to your heroku account
 
 you will be notified with the url of your app running on heroku cedar stack
 
+=======
+Initial Commits for App development with JavaScript in node.js
+==============================================================
+
+Using 
+
+ - Grunt.js
+>>>>>>> backbonejs
