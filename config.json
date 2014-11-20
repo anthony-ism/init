@@ -4,9 +4,15 @@
 		"public_dir": "public"
 	},
 	"dbs": {
+<<<<<<< HEAD
 		"sampleUsers": {
 			"type": "mock",
 			"url": "file:./sampleUsers.db"
+=======
+		"users": {
+			"type": "postgres",
+			"url": "tcp://postgres@localhost/example"
+>>>>>>> postgres
 		}
 	}
 }
