@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> usermanager
 Initial Template for App development with JavaScript in node.js
 ==============================================================
 
@@ -23,7 +26,7 @@ Next lets add a git remote with the init repo
 
 	git remote add init git://github.com/picanteverde/init.git
 
-Afert that we pull the branches we need for example to have the latest version of the user manager
+After that we pull the branches we need for example to have the latest version of the user manager
 
 	git pull init usermanager
 	
@@ -62,6 +65,7 @@ For the next step make sure you added your .ssh pub key to your heroku account
 
 you will be notified with the url of your app running on heroku cedar stack
 
+<<<<<<< HEAD
 =======
 Initial Commits for App development with JavaScript in node.js
 ==============================================================
@@ -70,3 +74,5 @@ Using
 
  - Grunt.js
 >>>>>>> backbonejs
+=======
+>>>>>>> usermanager
